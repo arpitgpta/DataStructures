@@ -1,0 +1,1 @@
+// to calculate ncr mod m with little ferment theorem
